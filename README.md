@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning methods implemented in Python
+Machine Learning methods implemented in Python.
